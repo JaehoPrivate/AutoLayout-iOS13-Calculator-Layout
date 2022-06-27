@@ -3,6 +3,8 @@
 ## 수업 과제
 * 계산기 앱 화면을 구성하였으며, 수업에서 배운 위치 설정 방법 및 Stack View 등을 활용.
 
+## 과제 원자료는 아래와 같음
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Calculator Layout Boss Challenge
